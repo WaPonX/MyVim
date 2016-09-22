@@ -251,6 +251,8 @@ Plugin 'bufexplorer.zip'
 "@Plugin --- [ python mode ]
 Plugin 'klen/python-mode'
 
+"@Plugin --- [ color scheme ]
+Plugin 'altercation/vim-colors-solarized'
 
 call vundle#end()
 
