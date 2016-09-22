@@ -44,16 +44,8 @@ set nocompatible
 syntax on
 
 set regexpengine=1
-"set background=dark
+set background=dark
 " @ COLOR Themes
-"colorscheme hybrid
-"colorscheme solarized
-"colorscheme hybrid-light
-"colorscheme badwolf
-"colorscheme mirodark	
-"colorscheme codeschool
-"the file in /usr/share/vim/vim74/colors/
-"colorscheme my_evening
 colorscheme solarized
 "colorscheme molokai
 
@@ -104,12 +96,12 @@ set guioptions-=e
 set guioptions-=m
 set guioptions-=T
 "-----关闭滚动条---------------
-set guioptions-=l
-set guioptions-=L
-set guioptions-=r
-set guioptions-=B
-set guioptions-=0
-set go=
+"set guioptions-=l
+"set guioptions-=L
+"set guioptions-=r
+"set guioptions-=B
+"set guioptions-=0
+"set go=
 " setting the tabs like that 
 "set list listchars=tab:→\ ,trail:\ 
 
@@ -196,7 +188,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'marijnh/tern_for_vim'
 Plugin 'Valloric/ListToggle'
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 "Plugin 'fatih/vim-go'
 
 " @ Plugin --- [ Code && Auto Complete ]
