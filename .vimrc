@@ -4,7 +4,6 @@
 "shortcuts:
 "ctrl + z	: Revocation
 "<F4>		: Open/Close NERDTree
-"<F9>		: OPen/Close TagList
 
 
 " Uncomment the following to have Vim jump to the last position when
