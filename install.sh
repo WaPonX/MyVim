@@ -3,7 +3,6 @@
 MYDIR=`dirname $0`
 cd $MYDIR
 cp .vimrc ~/.vimrc
-sudo yum install git
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim -c BundleInstall -c q -c q
 
