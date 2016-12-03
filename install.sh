@@ -13,7 +13,7 @@ else
     mkdir ~/.vim/colors
 fi
 cp ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim  ~/.vim/colors/
-
+cp ~/.vim/bundle/molokai/colors/molokai.vim ~./vim/colors/molokai.vim
 #cd ~/.vim/bundle/YouCompleteMe
 #git submodule update --init --recursive
 #sudo ./install.py --clang-completer
