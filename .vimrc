@@ -45,8 +45,8 @@ syntax on
 set regexpengine=1
 set background=dark
 " @ COLOR Themes
-colorscheme solarized
-"colorscheme molokai
+"colorscheme solarized
+colorscheme molokai
 
 " Format 
 set ts=4
